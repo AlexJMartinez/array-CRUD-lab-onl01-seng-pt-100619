@@ -5,7 +5,7 @@ end
 
 def create_an_array
 
-  new_array = ["eat", "sleep", "drink"]
+  new_array = ["eat", "sleep", "drink", "speak"]
 
 end
 
